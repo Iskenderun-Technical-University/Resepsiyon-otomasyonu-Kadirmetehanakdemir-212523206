@@ -1,0 +1,1 @@
+# Resepsiyon-otomasyonu-Kadirmetehanakdemir-212523206
