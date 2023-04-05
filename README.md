@@ -1,1 +1,2 @@
-# Resepsiyon-otomasyonu-Kadirmetehanakdemir-212523206
+# C# Resepsiyon-otomasyonu
+# DEVELOPMENT BY KADİR METEHAN AKDEMİR 212523206
