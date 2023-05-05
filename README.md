@@ -11,10 +11,11 @@
 -Sayaç
 -Hakkında bölümü eklemeyi düşünüyorum.
 
+>Bilgisayarı çok yormayan bir program olacaktır.
 
+> SQL yardımı ile veriler elde edilir ve işlemler sorunsuzca halledilebilir.
 
-
-
+>Güncellenebilir bir program olacaktır.
 
 
 
