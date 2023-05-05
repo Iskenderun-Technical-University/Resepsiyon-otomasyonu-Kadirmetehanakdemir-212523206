@@ -1,6 +1,7 @@
 # C# Yurt Otomasyonu
 *Önceliğim kullanıcı dostu bir otomasyon olmasıdır.Amacım C# ile minimal seviyede bilgisayar bilgisi olan bir insanın bile rahatlıkla kullanabileceği bir otomasyon.
-*Veri tabanı olarak "Microsoft SQL Server Management Studio" kullanmayı planlıyorum
+*Veri tabanı olarak "Microsoft SQL Server Management Studio" kullanmayı planlıyorum.
+
 ->İçindekiler<-
 
 -Admin Giriş Ekranı
