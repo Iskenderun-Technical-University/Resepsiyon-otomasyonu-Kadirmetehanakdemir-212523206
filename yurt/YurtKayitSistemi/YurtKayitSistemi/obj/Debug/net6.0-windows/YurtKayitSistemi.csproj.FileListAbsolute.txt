@@ -1,0 +1,17 @@
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\net6.0-windows\YurtKayitSistemi.exe
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\net6.0-windows\YurtKayitSistemi.deps.json
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\net6.0-windows\YurtKayitSistemi.runtimeconfig.json
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\net6.0-windows\YurtKayitSistemi.dll
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\net6.0-windows\YurtKayitSistemi.pdb
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.Form1.resources
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.AssemblyInfoInputs.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.AssemblyInfo.cs
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.dll
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\refint\YurtKayitSistemi.dll
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.pdb
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\YurtKayitSistemi.genruntimeconfig.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\net6.0-windows\ref\YurtKayitSistemi.dll
