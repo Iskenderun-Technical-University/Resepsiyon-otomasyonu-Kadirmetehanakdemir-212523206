@@ -1,0 +1,12 @@
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\meteh\Masaüstü\yurt\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
