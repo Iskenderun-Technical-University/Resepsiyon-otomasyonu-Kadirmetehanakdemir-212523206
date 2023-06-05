@@ -17,15 +17,15 @@ namespace YurtKayitSistemi
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-M560FVM\\SQLEXPRESS;Initial Catalog=YurtKayit;Integrated Security=True");
+
+        SqlBaglantim bgl = new SqlBaglantim();
         private void pictureBox2_Click(object sender, EventArgs e)
         {
             try { 
-            baglanti.Open();
-            SqlCommand komut1 = new SqlCommand("insert into Bolumler (BolumAd) values (@p1)", baglanti);
+            SqlCommand komut1 = new SqlCommand("insert into Bolumler (BolumAd) values (@p1)", bgl.baglanti());
             komut1.Parameters.AddWithValue("@p1", TxtBolumAd.Text);
             komut1.ExecuteNonQuery();
-            baglanti.Close();
+            bgl.baglanti().Close();
                 MessageBox.Show("Bölüm eklendi.");
                 this.bolumlerTableAdapter.Fill(this.yurtKayitDataSet.Bolumler);
             }
@@ -45,11 +45,11 @@ namespace YurtKayitSistemi
         private void PcbBolumSil_Click(object sender, EventArgs e)
         { try
             {
-                baglanti.Open();
-                SqlCommand komut2 = new SqlCommand("delete from Bolumler where Bolumid=@p1", baglanti);
+                
+                SqlCommand komut2 = new SqlCommand("delete from Bolumler where Bolumid=@p1", bgl.baglanti());
                 komut2.Parameters.AddWithValue("@p1", TxtBolumid.Text);
                 komut2.ExecuteNonQuery();
-                baglanti.Close();
+                bgl.baglanti().Close();
                 MessageBox.Show("Silme İşlemi Tamamlandı.");
                 this.bolumlerTableAdapter.Fill(this.yurtKayitDataSet.Bolumler);
             }

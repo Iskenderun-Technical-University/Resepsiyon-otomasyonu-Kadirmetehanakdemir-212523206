@@ -37,19 +37,19 @@
             this.label2 = new System.Windows.Forms.Label();
             this.TxtBolumAd = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.yurtKayitDataSet = new YurtKayitSistemi.YurtKayitDataSet();
-            this.bolumlerBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.bolumlerTableAdapter = new YurtKayitSistemi.YurtKayitDataSetTableAdapters.BolumlerTableAdapter();
             this.bolumidDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.bolumAdDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.bolumlerBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.yurtKayitDataSet = new YurtKayitSistemi.YurtKayitDataSet();
+            this.bolumlerTableAdapter = new YurtKayitSistemi.YurtKayitDataSetTableAdapters.BolumlerTableAdapter();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.PcbBolumEkle)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PcbBolumSil)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.yurtKayitDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bolumlerBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.yurtKayitDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // PcbBolumEkle
@@ -123,20 +123,6 @@
             this.dataGridView1.Size = new System.Drawing.Size(680, 251);
             this.dataGridView1.TabIndex = 5;
             // 
-            // yurtKayitDataSet
-            // 
-            this.yurtKayitDataSet.DataSetName = "YurtKayitDataSet";
-            this.yurtKayitDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // bolumlerBindingSource
-            // 
-            this.bolumlerBindingSource.DataMember = "Bolumler";
-            this.bolumlerBindingSource.DataSource = this.yurtKayitDataSet;
-            // 
-            // bolumlerTableAdapter
-            // 
-            this.bolumlerTableAdapter.ClearBeforeFill = true;
-            // 
             // bolumidDataGridViewTextBoxColumn
             // 
             this.bolumidDataGridViewTextBoxColumn.DataPropertyName = "Bolumid";
@@ -153,6 +139,20 @@
             this.bolumAdDataGridViewTextBoxColumn.HeaderText = "BolumAd";
             this.bolumAdDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.bolumAdDataGridViewTextBoxColumn.Name = "bolumAdDataGridViewTextBoxColumn";
+            // 
+            // bolumlerBindingSource
+            // 
+            this.bolumlerBindingSource.DataMember = "Bolumler";
+            this.bolumlerBindingSource.DataSource = this.yurtKayitDataSet;
+            // 
+            // yurtKayitDataSet
+            // 
+            this.yurtKayitDataSet.DataSetName = "YurtKayitDataSet";
+            this.yurtKayitDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // bolumlerTableAdapter
+            // 
+            this.bolumlerTableAdapter.ClearBeforeFill = true;
             // 
             // label3
             // 
@@ -200,6 +200,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.PcbBolumSil);
             this.Controls.Add(this.PcbBolumEkle);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FrmBolumler";
@@ -208,8 +209,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.PcbBolumEkle)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PcbBolumSil)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.yurtKayitDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bolumlerBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.yurtKayitDataSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

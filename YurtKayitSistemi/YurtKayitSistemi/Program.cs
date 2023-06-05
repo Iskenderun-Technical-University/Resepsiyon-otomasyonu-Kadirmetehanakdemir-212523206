@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace YurtKayitSistemi
 {
@@ -16,7 +18,7 @@ namespace YurtKayitSistemi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmBolumler());
+            Application.Run(new FrmAdminGiris());
         }
     }
 }
